@@ -1,0 +1,21 @@
+# Flutter/Dart
+.dart_tool/
+.build/
+ios/Flutter/.last_build_id
+ios/Flutter/App.framework
+ios/Flutter/Flutter.podspec
+android/gradle.properties
+android/local.properties
+android/key.properties
+android/key.jks
+*.iml
+.idea/
+.DS_Store
+*.log
+
+# Build output
+build/
+
+# Generated (run build_runner to recreate)
+lib/database.g.dart
+lib/providers/database_provider.g.dart
